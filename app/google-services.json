@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446431215550",
+    "firebase_url": "https://atmanirbhar-b7f09.firebaseio.com",
+    "project_id": "atmanirbhar-b7f09",
+    "storage_bucket": "atmanirbhar-b7f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446431215550:android:762f77fae28866711983ef",
+        "android_client_info": {
+          "package_name": "com.erdr.atmanirbhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446431215550-hdlgjsr7frvgbccs4o47hpg9rs7lbrl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erdr.atmanirbhar",
+            "certificate_hash": "4bb9b5b726b5678567a4c2fd8a9e4dd79422be15"
+          }
+        },
+        {
+          "client_id": "446431215550-6ci3b64mc7p39ve9rllik3f06mu2337i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXsoXQbmoW-DOBE8gkZpnwxNh8UYaxdf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446431215550-6ci3b64mc7p39ve9rllik3f06mu2337i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
